@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1080878786341",
+    "firebase_url": "https://fire-post-d1e1b-default-rtdb.firebaseio.com",
+    "project_id": "fire-post-d1e1b",
+    "storage_bucket": "fire-post-d1e1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080878786341:android:82b384526765be8dea5ccc",
+        "android_client_info": {
+          "package_name": "com.example.firepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080878786341-97titl98vd7j13i4eb7ufv7436pldida.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCncwEok3FzITGGv_NkxJl6XrG2L0R9iqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080878786341-97titl98vd7j13i4eb7ufv7436pldida.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080878786341-hke955k4c48rk0so1su73tdt3h87bb0s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firepost"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
